@@ -8,4 +8,4 @@ pip install googletrans==3.1.0a0
 ```
 I would recommend to do it in virtual environment.
 
-![Alt Text](https://raw.githubusercontent.com/Lavesh03/Language-Translation-/main/TranslatorGIF.gif)
+![Alt Text](https://github.com/gtiwari912/language-translator/blob/main/TranslatorGIF.gif)
